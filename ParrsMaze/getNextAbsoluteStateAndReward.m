@@ -30,7 +30,7 @@ SOUTH       = 3;
 WEST        = 4;
 
 %Rewards:
-WALLPENALTY = -2;
+WALLPENALTY = -3;
 GOALREWARD  = 10;
 
 r           = currentState(1);
